@@ -1,0 +1,1 @@
+wiNstaller is a simple GUI or command line utility which provides one-click jailbreak, activate, application install for your iPhone
